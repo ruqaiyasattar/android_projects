@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">demosqlite</string>
+
+    <string name="your_name">your name here</string>
+
+    <string name="course_name">your course name</string>
+
+    <string name="age_name">your Age</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomAdapterDemo</string>
+
+    <item name="item_click_support" type="id" />
+</resources>
